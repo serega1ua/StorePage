@@ -1,0 +1,56 @@
+    html, body {
+      margin: 0;
+      padding: 0;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    .slider {
+        width: 80%;
+		max-width: 80%;
+        margin: 100px auto;
+    }
+
+    .slick-slide {
+      margin: 0px 20px;
+    }
+
+    .slick-slide img {
+      width: 100%;
+    }
+
+    .slick-prev:before,
+    .slick-next:before {
+        color: black;
+    }
+	
+	
+	
+ 
+  li.slick-active button  {
+          
+border: none !important;
+ 
+    }
+	
+	
+	.slick-dots button {
+	 
+font-size: 0 !important;
+width: 15px !important;
+height: 18px!important;
+background-color: #ffdc00 !important;
+border: 3px solid #333 !important;
+-webkit-box-sizing: border-box !important;
+box-sizing: border-box !important;
+}
+	
+  
+	 div.slide div.review-author img.ava {
+	  
+width: 5% !important;
+ 
+ 
+}

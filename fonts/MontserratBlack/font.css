@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'MontserratBlack';
+	src: url('./MontserratBlack.eot');
+	src: local('MontserratBlack'), url('./MontserratBlack.woff') format('woff'), url('./MontserratBlack.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_58761">Text with this font applied</p> */
+.fontsforweb_fontid_58761 {
+	font-family: 'MontserratBlack' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
